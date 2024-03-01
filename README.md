@@ -1,5 +1,5 @@
-Plagiarism Checker
-Overview
+
+
 The Plagiarism Checker is a C++ application developed using the wxWidgets library. It provides a graphical user interface (GUI) for comparing two pieces of text and determining the similarity between them. The application calculates a similarity score based on the matched words between the input text and a reference text, allowing users to detect potential plagiarism.
 
 Key Features
